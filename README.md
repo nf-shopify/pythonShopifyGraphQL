@@ -2,6 +2,16 @@
 
 This library contains Shopify GraphQL quieries and mutations targeting the Admin API. 
 
+## Clone the project 
+```
+git clone https://github.com/nf-shopify/pythonShopifyGraphql
+```
+
+## Install the packages using pip
+```
+$ pip install -r requirements.txt
+```
+
 ## Create .env file
 
 ```bash
