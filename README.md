@@ -4,7 +4,7 @@ This library contains Shopify GraphQL quieries and mutations targeting the Admin
 
 ## Clone the project 
 ```
-git clone https://github.com/nf-shopify/pythonShopifyGraphql
+git clone https://github.com/nf-shopify/pythonShopifyGraphql.git
 ```
 
 ## Install the packages using pip
